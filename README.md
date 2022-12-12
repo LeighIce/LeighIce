@@ -1,4 +1,3 @@
 - Hello, I'm Merlith3p0 or Leigh.
 - 
-- I'm interested in a career as a python developer, so I'm studying python, pandas, and django.
-- I'll likely play around with this file more to learn about how Github repositories work.
+- I'm interested in a career as a python developer, so I'm studying Python and a bit of SQL. I'm planning on studying Pandas and Django soon.
