@@ -1,3 +1,1 @@
-- Hello, I'm Leigh Ice, a full-time student at ACC.
-- 
-- I'm interested in a career as a python developer, so I'm studying Python and a bit of SQL. I'm planning on studying Pandas and Django soon.
+
